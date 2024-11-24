@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Happily Ever Emails is a basic application that takes an email from a user, splits it into its usernmame and domain, and allows to send anonymous messages to the mail. 
+Happily Ever Emails is a basic application that takes an email from a user, splits it into its username and domain, and allows to send anonymous messages to the mail. 
 
 ## Features
 
